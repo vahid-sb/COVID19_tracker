@@ -2,7 +2,8 @@
 
 This script fetches the daily data of confiremed cases of COVID-19 in different country/regions, as well as recovered and mortality cases. 
 ## Data source
-Data is fetched from [here]
+Data is fetched from here:
+
 (https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
 
 ## Depndencies
