@@ -4,7 +4,7 @@ This script fetches the daily data of confiremed cases of COVID-19 in different 
 ## Data source
 Data is fetched from here:
 
-(https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
+https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
 
 ## Depndencies
 It uses the usual Python 3 libraries. You might need to install 'wget' and 'click'. The former is used to dowload the data, and the latetr to handle command prompt parameters. 
